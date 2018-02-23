@@ -1,0 +1,35 @@
+Mammals
+
+
+Panther 
+Pig 
+Pony 
+Porcupine 
+Prairie Dog 
+Rabbit 
+Raccoon 
+Ram 
+Rat 
+Red deer
+Red panda
+Reindeer(caribou) Rhinoceros 
+Salamander 
+Sea Lion
+Seal 
+Sheep 
+Shrew 
+Skunk 
+Squirrel 
+Tapir 
+Tarsier 
+Tiger 
+wallaby 
+Walrus 
+Water buffalo 
+Weasel 
+Whale 
+Wolf 
+Wolverine 
+Wombat 
+Yak 
+Zebra
