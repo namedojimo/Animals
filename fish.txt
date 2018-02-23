@@ -5,3 +5,10 @@ Eel
 Fish
 Goldfish
 Herring
+Porpoise 
+Sardine 
+Seahorse 
+Shark 
+Shrimp 
+Stingray 
+Trout
