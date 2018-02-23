@@ -11,3 +11,9 @@ Hornet
 Locust
 Louse
 Mosquito
+Snail 
+Spider 
+Stinkbug 
+Termite 
+Wasp 
+Worm

@@ -4,3 +4,6 @@ Crocodile
 Dinosaur
 Komodo dragon
 Newt
+Snake
+Turtle
+Viper
